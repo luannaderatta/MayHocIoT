@@ -1,0 +1,600 @@
+[
+  {
+    "dish_name_vn": "Thịt kho trứng",
+    "ingredients": [
+      "pork",
+      "egg",
+      "soy_sauce",
+      "sugar",
+      "pepper"
+    ],
+    "cooking_steps": [
+      "Rửa sạch thịt heo, cắt miếng vừa ăn",
+      "Ướp thịt với nước mắm, đường, tiêu trong 15 phút",
+      "Luộc trứng chín, bóc vỏ",
+      "Kho thịt với nước dừa trong 30 phút",
+      "Thêm trứng vào kho thêm 10 phút",
+      "Nêm nếm vừa ăn, thêm hành lá"
+    ],
+    "cooking_time": "45 phút",
+    "difficulty": "Trung bình",
+    "category": "Món mặn"
+  },
+  {
+    "dish_name_vn": "Rau xào tỏi",
+    "ingredients": [
+      "vegetable",
+      "garlic",
+      "oil",
+      "salt"
+    ],
+    "cooking_steps": [
+      "Rửa sạch rau, để ráo",
+      "Băm nhỏ tỏi",
+      "Đun nóng dầu, phi tỏi thơm",
+      "Xào rau với lửa lớn trong 3 phút",
+      "Nêm muối vừa ăn",
+      "Cho ra đĩa, ăn nóng"
+    ],
+    "cooking_time": "10 phút",
+    "difficulty": "Dễ",
+    "category": "Món rau"
+  },
+  {
+    "dish_name_vn": "Trứng chiên",
+    "ingredients": [
+      "egg",
+      "oil",
+      "salt"
+    ],
+    "cooking_steps": [
+      "Đập trứng vào bát, đánh đều",
+      "Thêm chút muối vào trứng",
+      "Đun nóng dầu trong chảo",
+      "Đổ trứng vào chảo, chiên vàng hai mặt",
+      "Cho ra đĩa, ăn với cơm"
+    ],
+    "cooking_time": "5 phút",
+    "difficulty": "Rất dễ",
+    "category": "Món trứng"
+  },
+  {
+    "dish_name_vn": "Canh rau củ",
+    "ingredients": [
+      "carrot",
+      "potato",
+      "tomato",
+      "onion"
+    ],
+    "cooking_steps": [
+      "Rửa sạch rau củ, cắt miếng vừa ăn",
+      "Đun sôi 1.5 lít nước",
+      "Cho rau củ cứng vào trước (cà rốt, khoai tây)",
+      "Nấu 10 phút, sau đó cho cà chua, hành tây",
+      "Nêm muối, hạt nêm vừa ăn",
+      "Nấu thêm 5 phút, tắt bếp"
+    ],
+    "cooking_time": "25 phút",
+    "difficulty": "Dễ",
+    "category": "Món canh"
+  },
+  {
+    "dish_name_vn": "Thịt bò xào rau",
+    "ingredients": [
+      "beef",
+      "vegetable",
+      "garlic",
+      "soy_sauce"
+    ],
+    "cooking_steps": [
+      "Thái thịt bò mỏng, ướp với tỏi băm và nước tương",
+      "Rửa sạch rau, cắt khúc",
+      "Đun nóng dầu, xào thịt bò chín tái",
+      "Cho rau vào xào chung",
+      "Nêm nếm gia vị vừa ăn",
+      "Xào thêm 2 phút, cho ra đĩa"
+    ],
+    "cooking_time": "20 phút",
+    "difficulty": "Trung bình",
+    "category": "Món mặn"
+  },
+  {
+    "dish_name_vn": "Cá chiên",
+    "ingredients": [
+      "fish",
+      "oil",
+      "salt",
+      "pepper"
+    ],
+    "cooking_steps": [
+      "Làm sạch cá, để ráo",
+      "Ướp cá với muối, tiêu, chanh trong 10 phút",
+      "Đun nóng dầu trong chảo",
+      "Chiên cá vàng đều hai mặt",
+      "Cho ra đĩa có lót giấy thấm dầu",
+      "Ăn kèm nước mắm chua ngọt"
+    ],
+    "cooking_time": "15 phút",
+    "difficulty": "Dễ",
+    "category": "Món cá"
+  },
+  {
+    "dish_name_vn": "Súp gà",
+    "ingredients": [
+      "chicken",
+      "carrot",
+      "potato",
+      "onion"
+    ],
+    "cooking_steps": [
+      "Rửa sạch gà, chặt miếng vừa ăn",
+      "Đun sôi nước, cho gà vào luộc 10 phút",
+      "Vớt gà ra, giữ nước dùng",
+      "Cho cà rốt, khoai tây, hành tây vào nấu",
+      "Nấu 15 phút cho rau củ mềm",
+      "Nêm gia vị, thêm gà vào đun 5 phút"
+    ],
+    "cooking_time": "30 phút",
+    "difficulty": "Trung bình",
+    "category": "Món súp"
+  },
+  {
+    "dish_name_vn": "Mì xào hải sản",
+    "ingredients": [
+      "noodle",
+      "shrimp",
+      "squid",
+      "vegetable",
+      "soy_sauce"
+    ],
+    "cooking_steps": [
+      "Luộc mì chín, vớt ra để ráo",
+      "Rửa sạch hải sản",
+      "Đun nóng dầu, xào tỏi thơm",
+      "Cho hải sản vào xào chín",
+      "Thêm rau củ vào xào",
+      "Cho mì vào, đảo đều với nước tương"
+    ],
+    "cooking_time": "25 phút",
+    "difficulty": "Trung bình",
+    "category": "Món mì"
+  },
+  {
+    "dish_name_vn": "Cơm rang",
+    "ingredients": [
+      "rice",
+      "egg",
+      "vegetable",
+      "soy_sauce"
+    ],
+    "cooking_steps": [
+      "Cho dầu vào chảo, đun nóng",
+      "Cho trứng vào, đảo nhanh tay",
+      "Thêm cơm nguội vào đảo đều",
+      "Thêm rau củ tùy thích",
+      "Nêm nước tương, muối vừa ăn",
+      "Đảo đều 5-7 phút, cho ra đĩa"
+    ],
+    "cooking_time": "15 phút",
+    "difficulty": "Dễ",
+    "category": "Món cơm"
+  },
+  {
+    "dish_name_vn": "Gà nướng",
+    "ingredients": [
+      "chicken",
+      "honey",
+      "soy_sauce",
+      "garlic"
+    ],
+    "cooking_steps": [
+      "Rửa sạch gà, để ráo",
+      "Ướp gà với mật ong, nước tương, tỏi 30 phút",
+      "Làm nóng lò nướng 200°C",
+      "Nướng gà 25-30 phút, lật mặt giữa chừng",
+      "Kiểm tra gà chín bằng cách chọc đũa",
+      "Lấy ra, cắt miếng, trang trí"
+    ],
+    "cooking_time": "50 phút",
+    "difficulty": "Trung bình",
+    "category": "Món gà"
+  },
+  {
+    "dish_name_vn": "Bún chả",
+    "ingredients": [
+      "pork",
+      "noodle",
+      "vegetable",
+      "fish_sauce"
+    ],
+    "cooking_steps": [
+      "Thịt heo xay ướp gia vị, nặn thành viên",
+      "Nướng chả trên than hoa hoặc chảo",
+      "Pha nước mắm chua ngọt",
+      "Luộc bún, để ráo",
+      "Rau sống rửa sạch",
+      "Bày bún, chả, rau ra đĩa, chan nước mắm"
+    ],
+    "cooking_time": "40 phút",
+    "difficulty": "Khó",
+    "category": "Món bún"
+  },
+  {
+    "dish_name_vn": "Phở bò",
+    "ingredients": [
+      "beef",
+      "rice_noodle",
+      "onion",
+      "spices"
+    ],
+    "cooking_steps": [
+      "Hầm xương bò lấy nước dùng",
+      "Thái thịt bò mỏng",
+      "Luộc bánh phở",
+      "Cho bánh phở vào tô",
+      "Xếp thịt bò lên trên",
+      "Chan nước dùng nóng, thêm hành, rau thơm"
+    ],
+    "cooking_time": "3 giờ",
+    "difficulty": "Khó",
+    "category": "Món phở"
+  },
+  {
+    "dish_name_vn": "Bánh xèo",
+    "ingredients": [
+      "flour",
+      "shrimp",
+      "pork",
+      "bean_sprout"
+    ],
+    "cooking_steps": [
+      "Pha bột bánh xèo với nước cốt dừa",
+      "Nhân bánh: tôm, thịt, giá đỗ",
+      "Đổ bột vào chảo nóng, tráng mỏng",
+      "Cho nhân vào giữa bánh",
+      "Gập bánh lại khi chín vàng",
+      "Ăn kèm rau sống và nước mắm"
+    ],
+    "cooking_time": "30 phút",
+    "difficulty": "Trung bình",
+    "category": "Món bánh"
+  },
+  {
+    "dish_name_vn": "Chả giò",
+    "ingredients": [
+      "pork",
+      "shrimp",
+      "vegetable",
+      "rice_paper"
+    ],
+    "cooking_steps": [
+      "Trộn nhân: thịt heo xay, tôm, rau củ",
+      "Ngâm bánh tráng cho mềm",
+      "Cuộn chả giò chặt tay",
+      "Chiên vàng đều trong dầu nóng",
+      "Vớt ra để ráo dầu",
+      "Ăn kèm rau sống và nước mắm chua ngọt"
+    ],
+    "cooking_time": "40 phút",
+    "difficulty": "Trung bình",
+    "category": "Món chiên"
+  },
+  {
+    "dish_name_vn": "Bò lúc lắc",
+    "ingredients": [
+      "beef",
+      "pepper",
+      "garlic",
+      "soy_sauce"
+    ],
+    "cooking_steps": [
+      "Thái thịt bò thành khối vuông",
+      "Ướp thịt với tiêu, tỏi, nước tương",
+      "Đun nóng dầu, xào thịt bò chín tái",
+      "Thêm hành tây, ớt chuông",
+      "Xào nhanh trên lửa lớn",
+      "Cho ra đĩa, ăn nóng"
+    ],
+    "cooking_time": "20 phút",
+    "difficulty": "Dễ",
+    "category": "Món bò"
+  },
+  {
+    "dish_name_vn": "Tôm sốt chua ngọt",
+    "ingredients": [
+      "shrimp",
+      "tomato",
+      "pineapple",
+      "sugar"
+    ],
+    "cooking_steps": [
+      "Rửa sạch tôm, để ráo",
+      "Cắt cà chua, dứa miếng vừa ăn",
+      "Pha sốt chua ngọt: cà chua, dứa, đường, giấm",
+      "Xào tôm chín hồng",
+      "Cho sốt vào đun sôi",
+      "Nêm nếm, thêm hành lá"
+    ],
+    "cooking_time": "25 phút",
+    "difficulty": "Trung bình",
+    "category": "Món tôm"
+  },
+  {
+    "dish_name_vn": "Cơm gà",
+    "ingredients": [
+      "chicken",
+      "rice",
+      "ginger",
+      "fish_sauce"
+    ],
+    "cooking_steps": [
+      "Luộc gà với gừng",
+      "Xé thịt gà thành miếng vừa ăn",
+      "Nấu cơm với nước luộc gà",
+      "Pha nước mắm gừng",
+      "Bày cơm, gà ra đĩa",
+      "Rắc hành phi, ăn kèm nước mắm"
+    ],
+    "cooking_time": "1 giờ",
+    "difficulty": "Dễ",
+    "category": "Món cơm"
+  },
+  {
+    "dish_name_vn": "Bò kho",
+    "ingredients": [
+      "beef",
+      "carrot",
+      "potato",
+      "spices"
+    ],
+    "cooking_steps": [
+      "Thái thịt bò miếng vừa ăn",
+      "Ướp thịt với gia vị kho",
+      "Đun nóng dầu, xào thịt săn lại",
+      "Thêm nước, cà rốt, khoai tây",
+      "Kho nhỏ lửa 1.5-2 giờ",
+      "Nêm nếm, thêm hành ngò"
+    ],
+    "cooking_time": "2 giờ",
+    "difficulty": "Trung bình",
+    "category": "Món kho"
+  },
+  {
+    "dish_name_vn": "Canh chua cá",
+    "ingredients": [
+      "fish",
+      "tomato",
+      "pineapple",
+      "tamarind"
+    ],
+    "cooking_steps": [
+      "Làm sạch cá",
+      "Nấu nước sôi, cho me vào khuấy tan",
+      "Thả cá vào nồi",
+      "Cho cà chua, dứa, đậu bắp",
+      "Nêm mắm muối, đường, ớt",
+      "Nấu 15 phút, thêm rau om, ngò gai"
+    ],
+    "cooking_time": "30 phút",
+    "difficulty": "Trung bình",
+    "category": "Món canh"
+  },
+  {
+    "dish_name_vn": "Rau muống xào tỏi",
+    "ingredients": [
+      "water_spinach",
+      "garlic",
+      "oil",
+      "fish_sauce"
+    ],
+    "cooking_steps": [
+      "Rau muống rửa sạch, cắt khúc",
+      "Băm tỏi nhỏ",
+      "Đun nóng dầu, phi tỏi thơm",
+      "Cho rau vào xào nhanh lửa lớn",
+      "Nêm nước mắm, bột nêm",
+      "Xào chín tái, cho ra đĩa"
+    ],
+    "cooking_time": "10 phút",
+    "difficulty": "Dễ",
+    "category": "Món rau"
+  },
+  {
+    "dish_name_vn": "Đậu sốt cà chua",
+    "ingredients": [
+      "tofu",
+      "tomato",
+      "onion",
+      "soy_sauce"
+    ],
+    "cooking_steps": [
+      "Cắt đậu phụ thành miếng vuông",
+      "Chiên đậu vàng nhẹ",
+      "Xào cà chua với hành tây",
+      "Thêm nước, nước tương, đường",
+      "Cho đậu vào sốt 10 phút",
+      "Thêm hành lá, tắt bếp"
+    ],
+    "cooking_time": "20 phút",
+    "difficulty": "Dễ",
+    "category": "Món chay"
+  },
+  {
+    "dish_name_vn": "Thịt heo luộc",
+    "ingredients": [
+      "pork",
+      "salt",
+      "ginger"
+    ],
+    "cooking_steps": [
+      "Rửa sạch thịt heo",
+      "Đun sôi nước với gừng",
+      "Cho thịt vào luộc 20-25 phút",
+      "Vớt thịt ra, thái lát",
+      "Pha nước mắm gừng",
+      "Ăn kèm rau sống và bún"
+    ],
+    "cooking_time": "30 phút",
+    "difficulty": "Dễ",
+    "category": "Món luộc"
+  },
+  {
+    "dish_name_vn": "Cá kho tộ",
+    "ingredients": [
+      "fish",
+      "sugar",
+      "fish_sauce",
+      "pepper"
+    ],
+    "cooking_steps": [
+      "Làm sạch cá",
+      "Ướp cá với nước mắm, đường, tiêu",
+      "Xếp cá vào nồi đất",
+      "Thêm nước dừa, nước mắm",
+      "Kho nhỏ lửa 30-40 phút",
+      "Thêm ớt, hành lá"
+    ],
+    "cooking_time": "1 giờ",
+    "difficulty": "Trung bình",
+    "category": "Món kho"
+  },
+  {
+    "dish_name_vn": "Gà xào sả ớt",
+    "ingredients": [
+      "chicken",
+      "lemongrass",
+      "chili",
+      "fish_sauce"
+    ],
+    "cooking_steps": [
+      "Băm nhỏ sả, ớt",
+      "Ướp gà với sả, ớt, nước mắm",
+      "Đun nóng dầu, xào gà chín vàng",
+      "Thêm chút nước, đậy vung",
+      "Nấu thêm 10 phút",
+      "Nêm nếm, thêm hành lá"
+    ],
+    "cooking_time": "25 phút",
+    "difficulty": "Trung bình",
+    "category": "Món gà"
+  },
+  {
+    "dish_name_vn": "Bò xào cần tỏi",
+    "ingredients": [
+      "beef",
+      "celery",
+      "garlic",
+      "oyster_sauce"
+    ],
+    "cooking_steps": [
+      "Thái thịt bò mỏng",
+      "Cần tây cắt khúc",
+      "Ướp thịt với tỏi, dầu hào",
+      "Xào thịt bò chín tái, vớt ra",
+      "Xào cần tây với tỏi",
+      "Cho thịt bò vào đảo đều, tắt bếp"
+    ],
+    "cooking_time": "20 phút",
+    "difficulty": "Trung bình",
+    "category": "Món bò"
+  },
+  {
+    "dish_name_vn": "Tôm rim",
+    "ingredients": [
+      "shrimp",
+      "sugar",
+      "fish_sauce",
+      "pepper"
+    ],
+    "cooking_steps": [
+      "Rửa sạch tôm",
+      "Ướp tôm với đường, nước mắm, tiêu",
+      "Đun nhỏ lửa với ít nước",
+      "Rim đến khi nước cạn, tôm săn lại",
+      "Thêm tỏi phi nếu thích",
+      "Để nguội, ăn với cơm"
+    ],
+    "cooking_time": "30 phút",
+    "difficulty": "Dễ",
+    "category": "Món tôm"
+  },
+  {
+    "dish_name_vn": "Trứng vịt lộn",
+    "ingredients": [
+      "duck_egg",
+      "salt",
+      "pepper"
+    ],
+    "cooking_steps": [
+      "Rửa sạch trứng vịt lộn",
+      "Luộc trứng 20-25 phút",
+      "Bóc vỏ, để nguyên quả",
+      "Ăn kèm rau răm, gừng thái sợi",
+      "Chấm muối tiêu chanh",
+      "Uống kèm trà nóng"
+    ],
+    "cooking_time": "30 phút",
+    "difficulty": "Dễ",
+    "category": "Món trứng"
+  },
+  {
+    "dish_name_vn": "Lẩu thái",
+    "ingredients": [
+      "shrimp",
+      "mushroom",
+      "tomato",
+      "lemongrass"
+    ],
+    "cooking_steps": [
+      "Chuẩn bị nước lẩu: nấu xương, thêm sả, me",
+      "Thái các loại rau củ, nấm",
+      "Sơ chế hải sản",
+      "Đun sôi nước lẩu",
+      "Nhúng nguyên liệu ăn kèm",
+      "Chấm nước mắm lẩu thái"
+    ],
+    "cooking_time": "45 phút",
+    "difficulty": "Trung bình",
+    "category": "Món lẩu"
+  },
+  {
+    "dish_name_vn": "Bún bò huế",
+    "ingredients": [
+      "beef",
+      "rice_noodle",
+      "lemongrass",
+      "chili"
+    ],
+    "cooking_steps": [
+      "Hầm xương bò lấy nước dùng",
+      "Thêm sả, ớt, mắm ruốc",
+      "Luộc bún bò",
+      "Thái thịt bò chín và tái",
+      "Bày bún vào tô, xếp thịt",
+      "Chan nước dùng nóng, thêm hành, rau"
+    ],
+    "cooking_time": "4 giờ",
+    "difficulty": "Khó",
+    "category": "Món bún"
+  },
+  {
+    "dish_name_vn": "Hủ tiếu",
+    "ingredients": [
+      "pork",
+      "noodle",
+      "shrimp",
+      "onion"
+    ],
+    "cooking_steps": [
+      "Nấu nước dùng từ xương heo",
+      "Luộc hủ tiếu, để ráo",
+      "Xào thịt heo, tôm với hành tây",
+      "Cho hủ tiếu vào xào",
+      "Nêm nước tương, gia vị",
+      "Cho ra đĩa, rắc hành lá"
+    ],
+    "cooking_time": "40 phút",
+    "difficulty": "Trung bình",
+    "category": "Món mì"
+  }
+]
